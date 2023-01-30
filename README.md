@@ -1,7 +1,7 @@
 <!--### Hello there 👋-->
 
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/24496846/211223682-33daaad0-0468-4728-90c6-b08cc3ee2e6d.gif" width="200">
+  <img src="https://user-images.githubusercontent.com/24496846/211223682-33daaad0-0468-4728-90c6-b08cc3ee2e6d.gif" width="400">
   <div id='badges' align='center'>
     <a href='' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin&logoColor=white&style=for-the-badge'></a>
     <!--<a href='https://twitter.com/thebardIRL' target='_blank'><img src='https://img.shields.io/badge/Twitter-1da1f2?logo=twitter&logoColor=white&style=for-the-badge'></a>-->
