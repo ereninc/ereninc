@@ -12,6 +12,22 @@
     <!--<a href='https://twitter.com/thebardIRL' target='_blank'><img src='https://img.shields.io/badge/Twitter-1da1f2?logo=twitter&logoColor=white&style=for-the-badge'></a>-->
   </div>
 </div>
+
+
+<!---------------------------------------------------------------------------->
+
+[Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
+
+[License]: LICENSE
+[Shield]: Types/Shield.md
+[KBD]: Types/KBD.md
+[#]: #
+
+
+<!---------------------------------[ Badges ]---------------------------------->
+
+[Badge License]: https://img.shields.io/badge/-BY_SA_4.0-ae6c18.svg?style=for-the-badge&labelColor=EF9421&logoColor=white&logo=CreativeCommons
+[Badge Likes]: https://img.shields.io/github/stars/MarkedDown/Buttons?style=for-the-badge&labelColor=d0ab23&color=b0901e&logoColor=white&logo=Trustpilot
  <!--
 <h2>About Me</h2>
 <p>Hello! 👋 I'm bardIRL, otherwise known as Meghan!</p>
