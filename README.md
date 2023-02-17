@@ -5,12 +5,14 @@
   <br>
   <div id='badges' align='center'>
     <a href='https://www.linkedin.com/in/ereninanci/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin&logoColor=white&style=for-the-badge'></a>
-  <kbd><br>KeyBinding Button<br></kbd>[KBD]
+  <kbd><br>KeyBinding Button<br></kbd>[ABC]
   </div> 
 </div>
 
+<!--------->
 
-[KBD]: Types/KBD.md
+[ABC]: Types/KBD.md
+
  <!--
 <h2>About Me</h2>
 <p>Hello! 👋 I'm bardIRL, otherwise known as Meghan!</p>
