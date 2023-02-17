@@ -8,6 +8,7 @@
     <a href='https://www.linkedin.com/in/ereninanci/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin&logoColor=white&style=for-the-badge'></a>
 
     [<kbd> <br> Unity Projects <br> </kbd>][Unity]
+    <br>
     [<kbd> <br> React/Web Projects <br> </kbd>][JS]
     <!--<a href='https://twitter.com/thebardIRL' target='_blank'><img src='https://img.shields.io/badge/Twitter-1da1f2?logo=twitter&logoColor=white&style=for-the-badge'></a>-->
   </div> 
@@ -17,8 +18,6 @@
 
 <!---------------------------------------------------------------------------->
 
-[Unity]: https://github.com/ereninc?tab=repositories&q=&type=public&language=c%23&sort=
-[JS]: https://github.com/ereninc?tab=repositories&q=&type=&language=javascript&sort=
 
 [Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
 
@@ -27,6 +26,8 @@
 [KBD]: https://github.com/ereninc?tab=repositories&q=&type=public&language=c%23&sort=
 [#]: #
 [Link]: # 'TEST'
+[Unity]: https://github.com/ereninc?tab=repositories&q=&type=public&language=c%23&sort=
+[JS]: https://github.com/ereninc?tab=repositories&q=&type=&language=javascript&sort=
 
 
 <!---------------------------------[ Badges ]---------------------------------->
