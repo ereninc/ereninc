@@ -5,7 +5,6 @@
   <br>
   <div id='badges' align='center'>
     <a href='https://www.linkedin.com/in/ereninanci/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin&logoColor=white&style=for-the-badge'></a>
-    <button class="button" type="submit">Post comment (button)</button>
     
   </div> 
 </div>
