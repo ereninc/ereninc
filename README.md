@@ -10,7 +10,7 @@
     [<kbd> <br> Unity Projects <br> </kbd>][Unity]
     <br>
     [<kbd> <br> React/Web Projects <br> </kbd>][JS]
-    <!--<a href='https://twitter.com/thebardIRL' target='_blank'><img src='https://img.shields.io/badge/Twitter-1da1f2?logo=twitter&logoColor=white&style=for-the-badge'></a>-->
+    
   </div> 
 </div>
 
