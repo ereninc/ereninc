@@ -5,28 +5,8 @@
   <br>
   <div id='badges' align='center'>
     <a href='https://www.linkedin.com/in/ereninanci/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin&logoColor=white&style=for-the-badge'></a>
-    <kbd> <br> Unity Projects <br> </kbd>[Unity]
   </div> 
 </div>
-
-
-
-
-<!---------------------------------------------------------------------------->
-
-[Unity]: https://github.com/ereninc?tab=repositories&q=&type=public&language=c%23&sort=
-[Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
-
-[License]: LICENSE
-[Shield]: Types/Shield.md
-[KBD]: https://github.com/ereninc?tab=repositories&q=&type=public&language=c%23&sort=
-[#]: #
-[Link]: # 'TEST'
-
-<!---------------------------------[ Badges ]---------------------------------->
-
-[Badge License]: https://img.shields.io/badge/-BY_SA_4.0-ae6c18.svg?style=for-the-badge&labelColor=EF9421&logoColor=white&logo=CreativeCommons
-[Badge Likes]: https://img.shields.io/github/stars/MarkedDown/Buttons?style=for-the-badge&labelColor=d0ab23&color=b0901e&logoColor=white&logo=Trustpilot
 
  <!--
 <h2>About Me</h2>
