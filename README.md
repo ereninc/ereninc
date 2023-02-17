@@ -11,20 +11,6 @@
 [![Button Shield]][Shield]
     <!--<a href='https://twitter.com/thebardIRL' target='_blank'><img src='https://img.shields.io/badge/Twitter-1da1f2?logo=twitter&logoColor=white&style=for-the-badge'></a>-->
   </div> 
-<div class="actions button-container">
-    <a href="#" class="button primary">Compose new</a>
-
-    <div class="button-group">
-        <a href="#" class="button primary">Archive</a>
-        <a href="#" class="button">Report spam</a>
-        <a href="#" class="button danger">Delete</a>
-    </div>
-
-    <div class="button-group minor-group">
-        <a href="#" class="button">Move to</a>
-        <a href="#" class="button">Labels</a>
-    </div>
-</div>
 </div>
 
 
