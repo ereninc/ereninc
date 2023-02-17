@@ -7,12 +7,13 @@
     <a href='https://www.linkedin.com/in/ereninanci/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin&logoColor=white&style=for-the-badge'></a>
 
   [<kbd> <br> Unity Projects <br> </kbd>][Unity]
-  [<kbd> <br> Web Projects <br> </kbd>][Unity]
+  [<kbd> <br> Web Projects <br> </kbd>][Web]
   </div> 
 </div>
 
 
 [Unity]: https://github.com/ereninc?tab=repositories&q=&type=public&language=c%23&sort=
+[Web]: https://github.com/ereninc?tab=repositories&q=&type=public&language=javascript&sort=
  <!--
 <h2>About Me</h2>
 <p>Hello! 👋 I'm bardIRL, otherwise known as Meghan!</p>
