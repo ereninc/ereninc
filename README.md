@@ -7,12 +7,12 @@
     <a href='https://www.linkedin.com/in/ereninanci/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin&logoColor=white&style=for-the-badge'></a>
 
   </div> 
+</div>
   <div>
     
   [<kbd> <br> Unity Projects with Sources & Gifs <br> </kbd>][Unity]
   [<kbd> <br> Web Projects with Sources & Gif <br> </kbd>][Web]
   </div>
-</div>
 
 
 [Unity]: https://github.com/ereninc?tab=repositories&q=&type=public&language=c%23&sort=
