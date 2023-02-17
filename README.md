@@ -10,7 +10,6 @@
 [![Button Shield]][Unity]
 [![Button Shield]][Shield]
     [<kbd> <br> Unity Projects <br> </kbd>][Link]
-    [Link]: # 'Link with example title.'
     <!--<a href='https://twitter.com/thebardIRL' target='_blank'><img src='https://img.shields.io/badge/Twitter-1da1f2?logo=twitter&logoColor=white&style=for-the-badge'></a>-->
   </div> 
 </div>
@@ -19,6 +18,7 @@
 
 <!---------------------------------------------------------------------------->
 
+    [Link]: # 'Link with example title.'
 [Unity]: https://github.com/ereninc?tab=repositories&q=&type=public&language=c%23&sort=
 
 [Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
