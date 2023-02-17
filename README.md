@@ -6,12 +6,12 @@
   <div id='badges' align='center'>
     <a href='https://www.linkedin.com/in/ereninanci/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin&logoColor=white&style=for-the-badge'></a>
 
-  [<kbd> <br> Unity Projects <br> </kbd>][Link]
+  [<kbd> <br> Unity Projects <br> </kbd>][Unity]
   </div> 
 </div>
 
 
-[Link]: https://github.com/ereninc?tab=repositories&q=&type=public&language=c%23&sort=
+[Unity]: https://github.com/ereninc?tab=repositories&q=&type=public&language=c%23&sort=
  <!--
 <h2>About Me</h2>
 <p>Hello! 👋 I'm bardIRL, otherwise known as Meghan!</p>
