@@ -18,7 +18,6 @@
 
 <!---------------------------------------------------------------------------->
 
-    [Link]: # 'Link with example title.'
 [Unity]: https://github.com/ereninc?tab=repositories&q=&type=public&language=c%23&sort=
 
 [Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
@@ -27,6 +26,7 @@
 [Shield]: Types/Shield.md
 [KBD]: Types/KBD.md
 [#]: #
+    [Link]: # 'Link with example title.'
 
 
 <!---------------------------------[ Badges ]---------------------------------->
