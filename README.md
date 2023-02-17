@@ -6,20 +6,9 @@
   <div id='badges' align='center'>
     <a href='https://www.linkedin.com/in/ereninanci/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin&logoColor=white&style=for-the-badge'></a>
     
-    ![Button Shield][Shield]
     
   </div> 
 </div>
-
-
-<!---------------------------------------------------------------------------->
-
-[Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
-
-[License]: LICENSE
-[Shield]: Types/Shield.md
-[KBD]: Types/KBD.md
-[#]: #
 
  <!--
 <h2>About Me</h2>
