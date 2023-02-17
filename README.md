@@ -1,22 +1,18 @@
 <!--### Hello there 👋-->
-
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/24496846/211223682-33daaad0-0468-4728-90c6-b08cc3ee2e6d.gif" width="400">
   <br>
   <br>
   <div id='badges' align='center'>
     <a href='https://www.linkedin.com/in/ereninanci/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin&logoColor=white&style=for-the-badge'></a>
-    
+[![Button Shield]][Unity]
+[![Button Shield]][Shield]
+    [<kbd> <br> Unity Projects <br> </kbd>][KBD]
+    <!--<a href='https://twitter.com/thebardIRL' target='_blank'><img src='https://img.shields.io/badge/Twitter-1da1f2?logo=twitter&logoColor=white&style=for-the-badge'></a>-->
   </div> 
-  
-    [<kbd> <br> Unity Projects <br> </kbd>][Unity]
 </div>
-
-
-
 <!---------------------------------------------------------------------------->
-
-
+[Unity]: https://github.com/ereninc?tab=repositories&q=&type=public&language=c%23&sort=
 [Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
 
 [License]: LICENSE
@@ -24,12 +20,8 @@
 [KBD]: https://github.com/ereninc?tab=repositories&q=&type=public&language=c%23&sort=
 [#]: #
 [Link]: # 'TEST'
-[Unity]: https://github.com/ereninc?tab=repositories&q=&type=public&language=c%23&sort=
-[JS]: https://github.com/ereninc?tab=repositories&q=&type=&language=javascript&sort=
-
 
 <!---------------------------------[ Badges ]---------------------------------->
-
 [Badge License]: https://img.shields.io/badge/-BY_SA_4.0-ae6c18.svg?style=for-the-badge&labelColor=EF9421&logoColor=white&logo=CreativeCommons
 [Badge Likes]: https://img.shields.io/github/stars/MarkedDown/Buttons?style=for-the-badge&labelColor=d0ab23&color=b0901e&logoColor=white&logo=Trustpilot
  <!--
@@ -45,21 +37,4 @@
   <li> Express.js </li>
   <li> MongoDB/Mongoose </li>
  </ul>
-
--->
-
-
-<!--
-**ereninc/ereninc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Game Development
-- 🌱 I’m currently learning Web Development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
