@@ -8,8 +8,6 @@
     <a href='https://www.linkedin.com/in/ereninanci/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin&logoColor=white&style=for-the-badge'></a>
 
     [<kbd> <br> Unity Projects <br> </kbd>][Unity]
-    <br>
-    [<kbd> <br> React/Web Projects <br> </kbd>][JS]
     
   </div> 
 </div>
