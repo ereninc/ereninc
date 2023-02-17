@@ -8,7 +8,7 @@
 
   </div> 
 </div>
-  <div display="flex">
+  <div display="flex" flex-direction="row">
     
   [<kbd> <br> Unity Projects with Sources & Gifs <br> </kbd>][Unity]
   [<kbd> <br> Web Projects with Sources & Gif <br> </kbd>][Web]
