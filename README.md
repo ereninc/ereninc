@@ -10,9 +10,7 @@
 [![Button Shield]][Unity]
 [![Button Shield]][Shield]
     <!--<a href='https://twitter.com/thebardIRL' target='_blank'><img src='https://img.shields.io/badge/Twitter-1da1f2?logo=twitter&logoColor=white&style=for-the-badge'></a>-->
-  </div>
-</div>
-
+  </div> 
 <div class="actions button-container">
     <a href="#" class="button primary">Compose new</a>
 
@@ -27,6 +25,8 @@
         <a href="#" class="button">Labels</a>
     </div>
 </div>
+</div>
+
 
 
 <!---------------------------------------------------------------------------->
