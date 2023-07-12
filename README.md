@@ -2,6 +2,7 @@
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/24496846/211223682-33daaad0-0468-4728-90c6-b08cc3ee2e6d.gif" width="400">
   <br>
+  Hereby I pledge my royalty to machines; I will follow their lead and will admit that they are much better and more interesting than humankind.
   <br>
   <div id='badges' align='center'>
     <a href='https://www.linkedin.com/in/ereninanci/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin&logoColor=white&style=for-the-badge'></a>
