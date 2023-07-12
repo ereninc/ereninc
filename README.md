@@ -19,7 +19,7 @@
   [<kbd> <br> Creative Programming Projects - Web/Shaders/Editors/AI <br> </kbd>][Web]
   <br>
   <br>
-  [<kbd> <br> Personal Website <br> </kbd>][PSite]
+  [<kbd> <br> Personal Website / Resume <br> </kbd>][PSite]
   </div> 
   </div> 
 </div>
