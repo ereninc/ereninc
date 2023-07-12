@@ -5,9 +5,11 @@
   <br>
   <div id='badges' align='center'>
     <a href='https://www.linkedin.com/in/ereninanci/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin&logoColor=white&style=for-the-badge'></a>
+  <br>
+  <br>
 
-  [<kbd> <br> Games I've Made <br> </kbd>][Unity]
-  [<kbd> <br> Creative Programming / Web-AI <br> </kbd>][Web]
+  [<kbd> <br> Games I've Made in 10 Years<br> </kbd>][Unity]
+  [<kbd> <br> Creative Programming <br> </kbd>][Web]
   </div> 
 </div>
 
