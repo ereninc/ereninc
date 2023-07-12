@@ -16,7 +16,7 @@
   [<kbd> <br> Games I've Made in 10 Years<br> </kbd>][Unity]
   <br>
   <br>
-  [<kbd> <br> Creative Programming Projects <br> </kbd>][Web]
+  [<kbd> <br> Creative Programming Projects - Web/Shaders/Editors/AI <br> </kbd>][Web]
   <br>
   <br>
   [<kbd> <br> Personal Website <br> </kbd>][PSite]
