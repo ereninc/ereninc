@@ -11,7 +11,7 @@
   [<kbd> <br> Games I've Made in 10 Years<br> </kbd>][Unity]
   <br>
   <br>
-  [<kbd> <br> Creative Programming <br> </kbd>][Web]
+  [<kbd> <br> Creative Programming Projects <br> </kbd>][Web]
   </div> 
 </div>
 
