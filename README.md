@@ -17,9 +17,10 @@
   <br>
   <br>
   [<kbd> <br> Creative Programming Projects <br> </kbd>][Web]
-  </div> 
+  <br>
   <br>
   [<kbd> <br> Personal Website <br> </kbd>][PSite]
+  </div> 
   </div> 
 </div>
 
