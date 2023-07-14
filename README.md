@@ -13,10 +13,10 @@
   <br>
   <br>
 
-  [<kbd> <br> Games I've Made in 10 Years<br> </kbd>][Unity]
+  [<kbd> <br> Game Repos<br> </kbd>][Unity]
   <br>
   <br>
-  [<kbd> <br> Creative Programming Projects - Web/Shaders/Editors/AI <br> </kbd>][Web]
+  [<kbd> <br> Web Projects <br> </kbd>][Web]
   <br>
   <br>
   [<kbd> <br> Personal Website / Resume <br> </kbd>][PSite]
